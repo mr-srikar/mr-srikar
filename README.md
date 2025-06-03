@@ -1,79 +1,44 @@
 <h1 align="center">Hi 👋, I'm Srikar Sajja</h1>
 <h3 align="center">Aspiring Backend Developer | Java & Python Enthusiast | B.Tech IT (2021–2025)</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-srikar&label=Visitors&color=0e75b6&style=flat" alt="mr-srikar" /> </p>
 
-### 🔗 Connect with me
+- 🔬 I’m currently working on **Backend API Projects and Java Practice**
 
+- 🌱 I’m currently learning **Spring Boot, REST APIs, and Advanced Java**
+
+- 👨‍💻 All of my projects are available at [srikarsajja.co](https://www.srikarsajja.co)
+
+- 🗣️ Ask me about **Java, Python, and Web Development**
+
+- 📧 How to reach me: **srikarsajja999@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/srikar-sajja-4184b6247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://srikarsajja.co/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/srikarsajja999/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/srikarsajja999" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="mailto:srikarsajja999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/srikar-sajja-4184b6247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/srikarsajja999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/srikarsajja999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
 
----
-
-### 🧰 Languages and Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-srikar&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mr-srikar" /></p>
 
-### 📌 Featured Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-srikar&show_icons=true&theme=onedark&locale=en" alt="mr-srikar" /></p>
 
-- 🔗 [Classtera: A Smart School Operations Portal](https://github.com/mr-srikar/Classtera-A-Smart-School-Operations-Portal) – *JSP, MySQL, JavaScript*
-- 🔗 [My Portfolio Website](https://www.srikarsajja.co/) – *HTML, CSS, JavaScript*
-- 🔗 [Multimodal Emotion Recognition](https://github.com/mr-srikar/BENCHMARKING-CNN-MODELS-FOR-MULTIMODAL-EMOTION-RECOGNITION-REAL-TIME-DEPLOYMENT-WITH-VGG19) – *Python, OpenCV, Keras*
-- 🔗 [Malicious URL Detection](https://github.com/mr-srikar/Malicious-URLs-Prediction-using-Deep-and-Machine-Learning) – *Python, Random Forest*
-- 🔗 [Neural Style Transfer](https://github.com/mr-srikar/Neural-Style-Transfer) – *Python, Streamlit*
-
----
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-srikar&layout=compact&theme=tokyonight)
-
----
-
-### 📈 GitHub Stats
-
-![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-srikar&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mr-srikar&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mr-srikar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🎯 Goals
-
-- 🚀 Master Java, Spring Boot & APIs  
-- 💼 Build backend-heavy full-stack projects  
-- 🎯 Crack top IT placements in 2025  
-
----
-
-⭐ *Thanks for visiting my profile! Let’s connect and collaborate.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-srikar&" alt="mr-srikar" /></p>
