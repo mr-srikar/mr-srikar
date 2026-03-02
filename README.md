@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, REST APIs, and Advanced Java**
 
-- 👨‍💻 All of my projects are available at [srikarsajja](mr-srikar.github.io/SSS200422/)
+- 👨‍💻 All of my projects are available at [srikarsajja](https://mr-srikar.github.io/SSS200422/)
 
 - 🗣️ Ask me about **Java, Python, and Web Development**
 
